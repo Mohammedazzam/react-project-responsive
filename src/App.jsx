@@ -1,5 +1,8 @@
+import { Button } from "@material-ui/core";
 const App = () => {
-    return <div>Hello World!</div>;
+    return <div>
+        <Button variant="contained" color="primary">Material UI</Button>
+    </div>;
 };
 
 export default App;
