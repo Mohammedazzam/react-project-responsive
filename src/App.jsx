@@ -3,6 +3,7 @@ const App = () => {
     return <div>
         <Button variant="contained" color="primary">Material UI</Button>
         <Button variant="contained" color="primary">Material UI</Button>
+        <Button variant="contained" color="primary">Material UI</Button>
     </div>;
 };
 
